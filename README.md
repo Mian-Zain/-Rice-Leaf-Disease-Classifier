@@ -100,4 +100,6 @@ Dataset inspiration from Kaggle.
 Built with TensorFlow, Streamlit, and OpenCV.
 
 Improve Crop Health with AI! 🌱
-For questions, contact [your-email@example.com].
+For questions, contact mianzainpk450@gmail.com
+https://www.linkedin.com/in/zaintist/
+
