@@ -25,7 +25,7 @@ Steps
 Clone the Repository
 
 bash
-git clone https://github.com/Mian-Zain/rice-leaf-disease-classifier.git
+https://github.com/Mian-Zain/-Rice-Leaf-Disease-Classifier.git
 cd rice-leaf-disease-classifier
 Install Dependencies
 
@@ -75,7 +75,7 @@ model = Sequential([
     Dense(3, activation='softmax')
 ])
 📈 Results
-Test Accuracy: ~57% (Improve this by training on a larger dataset).
+Test Accuracy: 70% (Improve this by training on a larger dataset).
 
 Confusion Matrix:
 Confusion Matrix
