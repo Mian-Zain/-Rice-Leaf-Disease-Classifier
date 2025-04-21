@@ -25,7 +25,7 @@ Steps
 Clone the Repository
 
 bash
-git clone https://github.com/your-username/rice-leaf-disease-classifier.git
+git clone https://github.com/Mian-Zain/rice-leaf-disease-classifier.git
 cd rice-leaf-disease-classifier
 Install Dependencies
 
