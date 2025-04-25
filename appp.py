@@ -1,8 +1,10 @@
 import streamlit as st
+uv pip install tensorflow
 import tensorflow as tf
 import numpy as np
 from PIL import Image
 import io
+
 
 # Load fine-tuned model
 model = tf.keras.models.load_model("rice_leaf_model.h5")
